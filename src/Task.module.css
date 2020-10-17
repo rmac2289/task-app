@@ -12,3 +12,7 @@
 .title {
     flex: 2
 }
+.details {
+    display: flex;
+    width: 200px;
+}

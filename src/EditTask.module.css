@@ -1,0 +1,8 @@
+.edit {
+    height: 300px;
+    width: 300px;
+    background: white;
+    position: absolute;
+    left: 50%;
+    margin-left: -150px;
+}

@@ -18,9 +18,13 @@ export default function TaskList(props) {
           taskName={v["Task Name"]}
           details={v.Details}
           priority={v.Priority}
+          Length={v.Length}
         />
+        
       );
     });
 
-  return <ul className={styles.taskList}>{taskItems}</ul>;
+  return <ul className={styles.taskList}>
+      {taskItems}
+      </ul>;
 }

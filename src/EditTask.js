@@ -3,7 +3,7 @@ import styles from "./EditTask.module.css";
 
 export default function EditTask(props) {
   return (
-    <form>
+    <form className={styles.edit}>
       <input type="text" />
       <input type="date" />
       <textarea />

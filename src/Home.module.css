@@ -6,6 +6,12 @@
     border: 1px solid black;
     padding: 2%;
     margin-right: 10px;
+    cursor: pointer;
+    transition: .5s all linear 
+}
+.category:hover {
+    background: black;
+    color: #e5f9fa;
 }
 .main {
     min-height: 100vh;
