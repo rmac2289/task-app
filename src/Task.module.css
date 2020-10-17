@@ -1,0 +1,14 @@
+.task {
+    border: 1px solid black;
+    padding: 2%;
+    margin-top: 20px;
+}
+.p {
+    flex: 1
+}
+.headline {
+    display: flex;
+}
+.title {
+    flex: 2
+}
