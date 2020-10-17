@@ -8,7 +8,7 @@ function Home() {
         return setCategory(v)
     }
   return (
-      <main>
+      <main className={styles.main}>
         <div className={styles.categories}>
           <h3 onClick={() => currCategory("All")} className={styles.category}>All</h3>
           <h3 onClick={() => currCategory("Home")} className={styles.category}>Home</h3>

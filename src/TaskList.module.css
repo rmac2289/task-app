@@ -1,5 +1,5 @@
 .taskList {
-    border: 1px solid white;
     list-style: none;
     padding: 1%;
+    margin-bottom: 0;
 }

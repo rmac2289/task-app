@@ -9,3 +9,10 @@ export const data = [{"Category": "Home","Task Name":"NoSQL","Priority":1,"Deadl
 {"Category": "Misc","Task Name":"Financial Mgmt","Priority":5,"Deadline":"04/01/2021","Details":"erat volutpat in congue etiam justo etiam pretium iaculis justo in hac habitasse platea dictumst etiam faucibus cursus"},
 {"Category": "Home","Task Name":"CTMS","Priority":1,"Deadline":"10/31/2020","Details":"primis in faucibus orci luctus et ultrices posuere cubilia curae nulla dapibus dolor vel est donec odio justo sollicitudin ut suscipit a feugiat et eros vestibulum ac est"}
 ]
+
+export const categoryList = [
+    "Home",
+    "Work",
+    "Other",
+    "Misc"
+]

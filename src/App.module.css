@@ -8,13 +8,5 @@ background: linear-gradient(to right, #bff0f3, #b1caee); /* W3C, IE 10+/ Edge, F
 h1 {
     margin-top: 0;
 }
-.categories {
-    display: flex;
-    margin-left: 1%;
-}
-.category {
-    border: 1px solid black;
-    padding: 2%;
-    margin-right: 10px;
-}
+
 
