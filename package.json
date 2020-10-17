@@ -55,6 +55,7 @@
     ]
   },
   "devDependencies": {
-    "electron-react-devtools": "^0.5.3"
+    "electron-react-devtools": "^0.5.3",
+    "prettier": "^2.1.2"
   }
 }
